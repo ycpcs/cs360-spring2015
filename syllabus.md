@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home Page
+title: "Syllabus"
 ---
 
 CS 360 - Analysis of Algorithms
