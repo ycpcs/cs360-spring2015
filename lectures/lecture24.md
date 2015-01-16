@@ -73,9 +73,11 @@ Generic Maximum Flow Algorithm
 
 By the max-flow, min-cut theorem, a maximal flow can be found by continually augmenting flow along paths with residual capacity, i.e.
 
+<pre>
 	1. Initialize f to 0
 	2. while there exists an augmenting path p
-	3.     augment the flow along p by the residual capacity cf(p)
-	
+	3.     augment the flow along p by the residual capacity c<sub>f</sub>(p)
+</pre>	
+
 While this algorithm is not particularly useful for implementation, we can observe that for integer capacities the algorithm runs in O(*E*|*f* <sup>\*</sup>|) since each iteration checks at most *E* edges (e.g. BFS) and increases the flow by at least 1.
 
