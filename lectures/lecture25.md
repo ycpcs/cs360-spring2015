@@ -10,15 +10,17 @@ Ford-Fulkerson Algorithm
 
 The *Ford-Fulkerson algorithm* builds upon the general strategy presented last time.
 
-	1.  for each edge (u,v) |elof| G.E
+<pre>
+	1.  for each edge (u,v) ∈ G.E
 	2.     (u,v).f = 0
-	3.  while there exists a path p from s to t in the residual network G\ :sub:`f`
-	4.     c\ :sub:`f`\ (p) = min{ c\ :sub:`f`\ (u,v) : (u,v) is in p}
+	3.  while there exists a path p from s to t in the residual network G<sub>f</sub>
+	4.     c<sub>f</sub>(p) = min{ c<sub>f</sub>(u,v) : (u,v) is in p}
 	5.     for each edge (u,v) in p
-	6.        if (u,v) |elof| E
-	7.           (u,v).f = (u,v).f + c\ :sub:`f`\ (p)
+	6.        if (u,v) ∈ E
+	7.           (u,v).f = (u,v).f + c<sub>f</sub>(p)
 	8.        else
-	9.           (v,u).f = (v,u).f - c\ :sub:`f`\ (p)
+	9.           (v,u).f = (v,u).f - c<sub>f</sub>(p)
+</pre>
 
 This algorithm runs efficiently as long as the value of the maximal flow |*f* <sup>\*</sup>| is reasonably small or if poor augmenting paths are found.
 
