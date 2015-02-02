@@ -12,9 +12,7 @@ Book Questions from *Introduction to Algorithms - 3rd ed.*
 
 3-2 (with *brief* justifications for *each* row)
 
-4-1 (b,c,d,e)
-
-6.1-1
+4-1 (b,c,d,e), 4-3 (f)
 
 Merge sort implementation.
 
@@ -30,7 +28,7 @@ Merge sort implementation.
 >
 > 4-1 - Use the Master theorem by identifying the appropriate cases.
 >
-> 6.1-1 - Recall that a heap is a *nearly complete* binary tree. Furthermore, the *height* of a heap is the maximal number of *edges* from the root to a leaf node.
+> 4-3 - Construct a recursion tree to obtain a *guess* at the runtime. Verify your guess using *substitution*.
 
 **Implementation**
 
