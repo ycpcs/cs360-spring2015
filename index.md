@@ -18,3 +18,6 @@ All information about the course will be posted here.
 ## News
 
 * **Jan 21** - Welcome back!
+* **Jan 30** - Assignment 1 Due
+* **Feb 6** - Assignment 2 Due
+* **Feb 6 - EXAM I Due in class Wed, Feb 11**
