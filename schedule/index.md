@@ -21,12 +21,13 @@ All reading materials are from the course textbook:
 > Feb 9,11  | [Lecture 7: Heapsort](../lectures/lecture07.html) | Ch. 6 |
 > Feb 13    | [Lecture 8: Quicksort](../lectures/lecture08.html) | Ch. 7 |
 > Feb 16,18 | [Lecture 9: Linear Sorting](../lectures/lecture09.html) <br /> **Assignment 3 Due** | Ch. 8 |
-> Feb 20    | **EXAM II** <br /> **Assignment 4 Due**             |             |
-> Feb 23,25 | [Lecture 10: Probabilistic Analysis](../lectures/lecture10.html) | Ch. 5 |
-> Feb 27    | [Lecture 11: Hash Tables](../lectures/lecture11.html) | Ch. 11 |
+> Feb 20,23 | [Lecture 10: Probabilistic Analysis](../lectures/lecture10.html) | Ch. 5 |
+> Feb 25    | [Lecture 11: Hash Tables](../lectures/lecture11.html) <br /> **Assignment 4 Due** | Ch. 11 |
 > Mar 2,4,6 | **NO CLASS - WINTER BREAK** |    |
-> Mar 9,11  | [Lecture 12: Dynamic Programming - Rod Cutting](../lectures/lecture12.html) | Ch. 15 |
-> Mar 13,16 | [Lecture 13: Dynamic Programming - LCS](../lectures/lecture13.html) | Ch. 15 |
+> Mar 9     | [Lecture 12: Dynamic Programming - Rod Cutting](../lectures/lecture12.html) | Ch. 15 |
+> Mar 11    | **EXAM II** <br /> **Assignment 5 Due**              |             |
+> Mar 13    | [Lecture 12: Dynamic Programming - Rod Cutting](../lectures/lecture12.html) cont. | Ch. 15 |
+> Mar 16    | [Lecture 13: Dynamic Programming - LCS](../lectures/lecture13.html) | Ch. 15 |
 > Mar 18,20 | [Lecture 14: Greedy Algorithms - Activity Selection](../lectures/lecture14.html) | Ch. 16 |
 > Mar 23    | [Lecture 15: Graph Theory](../lectures/lecture15.html) | Appendix B.4 |
 > Mar 25    | **Exam III** |  |
