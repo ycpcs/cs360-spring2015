@@ -10,4 +10,5 @@ This page links to assignment descriptions.
 > Jan 30   | [Assignment 1](../assign/assign01.html) | [Assignment 1 solutions](../assign/sol/assign01sol.pdf)|
 > Feb 6    | [Assignment 2](../assign/assign02.html) | [Assignment 2 solutions](../assign/sol/assign02sol.pdf)|
 > Feb 20   | [Assignment 3](../assign/assign03.html) | [Assignment 3 solutions](../assign/sol/assign03sol.pdf)|
-> Feb 27   | [Assignment 4](../assign/assign04.html) |                                                        |
+> Feb 27   | [Assignment 4](../assign/assign04.html) | [Assignment 4 solutions](../assign/sol/assign04sol.pdf)|
+> Mar 11   | [Assignment 5](../assign/assign05.html) |                                                        |
