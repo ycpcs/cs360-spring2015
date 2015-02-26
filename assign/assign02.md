@@ -28,7 +28,7 @@ Merge sort implementation.
 >
 > 4-1 - Use the Master theorem by identifying the appropriate cases.
 >
-> 4-3 - Construct a recursion tree to obtain a *guess* at the runtime. Verify your guess using *substitution*.
+> 4-3 - Construct a recursion tree to obtain a *guess* at the runtime of O(n). Verify your guess using *substitution*.
 
 **Implementation**
 
