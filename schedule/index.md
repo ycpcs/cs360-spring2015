@@ -28,10 +28,10 @@ All reading materials are from the course textbook:
 > Mar 11    | **EXAM II** <br /> **Assignment 5 Due**              |             |
 > Mar 13,16 | [Lecture 12: Dynamic Programming - Rod Cutting](../lectures/lecture12.html) | Ch. 15 |
 > Mar 18    | [Lecture 13: Dynamic Programming - LCS](../lectures/lecture13.html) | Ch. 15 |
-> Mar 20    | [Lecture 14: Greedy Algorithms - Activity Selection](../lectures/lecture14.html) | Ch. 16 |
+> Mar 20    | [Lecture 14: Greedy Algorithms - Activity Selection](../lectures/lecture14.html) <br /> **Assignment 6 Due**  | Ch. 16 |
 > Mar 23    | [Lecture 15: Graph Theory](../lectures/lecture15.html) | Appendix B.4 |
 > Mar 25    | [Lecture 16: Breadth-First Search](../lectures/lecture16.html) | Ch. 22.2 |
-> Mar 27    | [Lecture 17: Depth-First Search](../lectures/lecture17.html) | Ch. 22.3 |
+> Mar 27    | [Lecture 17: Depth-First Search](../lectures/lecture17.html) <br /> **Assignment 7 Due**  | Ch. 22.3 |
 > Mar 30    | [Lecture 18: DFS Applications](../lectures/lecture18.html) | Ch. 22.4-22.5 |
 > Apr 1     | [Lecture 19: Minimum Spanning Trees - Kruskal](../lectures/lecture19.html) | Ch. 23.1 |
 > Apr 3, 6  | **NO CLASS - SPRING BREAK** |   |
