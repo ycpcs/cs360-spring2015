@@ -12,4 +12,5 @@ This page links to assignment descriptions.
 > Feb 20   | [Assignment 3](../assign/assign03.html) | [Assignment 3 solutions](../assign/sol/assign03sol.pdf)|
 > Feb 27   | [Assignment 4](../assign/assign04.html) | [Assignment 4 solutions](../assign/sol/assign04sol.pdf)|
 > Mar 11   | [Assignment 5](../assign/assign05.html) |                                                        |
-> Mar 20   | [Assignment 6](../assign/assign06.html) |                                                        |
+> Mar 20   | [Assignment 6](../assign/assign06.html) | [Assignment 6 solutions](../assign/sol/assign06sol.pdf)|
+> Mar 27   | [Assignment 7](../assign/assign07.html) |                                                        |
