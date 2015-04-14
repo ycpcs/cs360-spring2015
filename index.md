@@ -30,4 +30,5 @@ All information about the course will be posted here.
 * **Mar 27** - Assignment 7 Due
 * **Apr 8** - Assignment 8 Due
 * **Apr 10 - EXAM III Due in class Wed, Apr 15**
+* **Apr 22** - Assignment 9 Due
 * **May 11, 13 - Final Project Due**
