@@ -40,11 +40,11 @@ All reading materials are from the course textbook:
 > Apr 13    | [Lecture 20: Minimum Spanning Trees - Prim](../lectures/lecture20.html) | Ch. 23.2 |
 > Apr 15    | [Lecture 21: Shortest Path - Bellman-Ford](../lectures/lecture21.html) | Ch. 24.1-24.2 |
 > Apr 17    | [Lecture 22: Shortest Path - Dijkstra](../lectures/lecture22.html) | Ch. 24.3 |
-> Apr 20    | [Lecture 23: Shortest Path - Floyd-Warshall](../lectures/lecture23.html) | Ch. 25 |
-> Apr 22    | [Lecture 24: Maximal Flow](../lectures/lecture24.html) | Ch. 26.1 |
-> Apr 24    | [Lecture 25: Maximal Flow- Ford-Fulkerson](../lectures/lecture25.html) | Ch. 26.2 |
-> Apr 27    | [Lecture 26: NP Completeness](../lectures/lecture26.html) | Ch. 34.1-34.3 |
-> Apr 29    | [Lecture 27: NP Complete Problems](../lectures/lecture27.html) | Ch. 34.4 |
+> Apr 17    | [Lecture 23: Shortest Path - Floyd-Warshall](../lectures/lecture23.html) | Ch. 25 |
+> Apr 20    | [Lecture 24: Maximal Flow](../lectures/lecture24.html) | Ch. 26.1 |
+> Apr 22    | [Lecture 25: Maximal Flow- Ford-Fulkerson](../lectures/lecture25.html) | Ch. 26.2 |
+> Apr 24    | [Lecture 26: NP Completeness](../lectures/lecture26.html) | Ch. 34.1-34.3 |
+> Apr 27    | [Lecture 27: NP Complete Problems](../lectures/lecture27.html) | Ch. 34.4 |
 > Apr 29    | [Lecture 28: More NP Complete Problems](../lectures/lecture28.html) | Ch. 34.5 |
 > May 1     | **Exam IV** |  |
 > May 4     | [Lecture 29: Approximation Algorithms](../lectures/lecture29.html) | Ch. 35.1-35.2 |
