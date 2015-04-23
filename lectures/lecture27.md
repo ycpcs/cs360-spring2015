@@ -27,7 +27,7 @@ Parentheses delineate *clauses* that consist of a group of variables that are co
 
 > φ = (( *x*<sub>1</sub> → *x*<sub>2</sub> ) ∨ ¬ (( *x*<sub>1</sub> ⇔ *x*<sub>3</sub> ) ∨ *x*<sub>4</sub> )) ∧ ¬ *x*<sub>2</sub>
 
-Clearly an assignment the satisfies this expression is \<0, 0, 1, 1\>.
+Clearly an assignment that satisfies this expression is \<0, 0, 1, 1\>.
 
 It can be shown that Boolean satisifiability is *NP*-complete by reducing circuit satisfiability to Boolean satisfiability.
 

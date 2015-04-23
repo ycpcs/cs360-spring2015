@@ -22,7 +22,7 @@ The *Ford-Fulkerson algorithm* builds upon the general strategy presented last t
 	9.           (v,u).f = (v,u).f - c<sub>f</sub>(p)
 </pre>
 
-This algorithm runs efficiently as long as the value of the maximal flow |*f* <sup>\*</sup>| is reasonably small or if poor augmenting paths are found.
+This algorithm runs efficiently as long as the value of the maximal flow |*f* <sup>\*</sup>| is reasonably small or if poor augmenting paths are avoided.
 
 Edmonds-Karp Algorithm
 ======================
